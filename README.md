@@ -13,8 +13,8 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rahulatoz365-del&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?rahulatoz365-del=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-eight-mu.vercel.app/?username=rahulatoz365-del&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-[![trophy](https://github-profile-trophy.vercel.app/?rahulatoz365-del=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![trophy](https://github-profile-trophy-eight-mu.vercel.app/?username=rahulatoz365-del&column=8&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy-eight-mu.vercel.app/?username=rahulatoz365-del&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
