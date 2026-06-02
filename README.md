@@ -13,9 +13,8 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rahulatoz365-del&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rahulatoz365-del&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?rahulatoz365-del=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-[![](https://komarev.com/ghpvc/?username=rahulatoz365-del&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![trophy](https://github-profile-trophy.vercel.app/?rahulatoz365-del=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
